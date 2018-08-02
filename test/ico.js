@@ -7,7 +7,7 @@ let teamReserve = 100000000e18; // 10%
 let advisersReserve = 30000000e18; // 3%
 let ecosystemReserve = 220000000e18; // 22%
 
-let pre_maxGoal = 265000000e18; // 265 Million LYM Tokens
+let pre_maxGoal = 265000000e18; // 265 Million LYM Tokensssß
 let pre_start = 1516618800; // Monday, 22 January 2018 11:00:00 GMT
 let pre_end = 1517655600; // Saturday, 3 February 2018 11:00:00 GMT
 let pre_prices = [60000, 50000];
